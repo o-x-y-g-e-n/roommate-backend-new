@@ -1,0 +1,15 @@
+.card {
+   width: 20rem !important; 
+   margin-left: 40%;
+   margin-top: 8%;
+   margin-left:auto;
+   margin-right: auto;
+}
+
+
+.button-checkout {
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    width:100%
+}
